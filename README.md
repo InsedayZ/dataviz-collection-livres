@@ -24,7 +24,3 @@ Ce projet est une application web interactive développée avec Streamlit qui pe
    ```bash
    pip install streamlit pandas matplotlib
    
-```markdown
-    ## Aperçu de l'application
-    ![Capture d'écran de l'application Streamlit](https://raw.githubusercontent.com/votre-username/mon-premier-projet-python/main/screenshot_streamlit_livres.png)
-    ```
