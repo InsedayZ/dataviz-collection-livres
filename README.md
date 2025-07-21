@@ -1,2 +1,2 @@
-# Mon-premier-projet-python
-Analyse de données simples avec Python - Mini-projet pour portfolio
+# Data-viz-livres
+Application Streamlit interactive pour l'analyse de données de livres (Mini-projet Humanités Numériques)
