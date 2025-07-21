@@ -24,3 +24,5 @@ Ce projet est une application web interactive développée avec Streamlit qui pe
    ```bash
    pip install streamlit pandas matplotlib
    
+## Aperçu de l'application
+   https://github.com/InsedayZ/Mon-premier-projet-python/blob/main/Capture%20d'%C3%A9cran%202025-07-21%20125529.png
