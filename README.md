@@ -23,6 +23,23 @@ Ce projet est une application web interactive développée avec Streamlit qui pe
 2. Installez les bibliothèques nécessaires :
    ```bash
    pip install streamlit pandas matplotlib
+   ```
+3. Téléchargez les fichiers `livres.csv` et `analyse_livres.py` dans le même dossier
+4. Ouvrez un terminal dans ce dossier et exécutez :
+   ```bash
+   streamlit run analyse_livres.py
+   ```
+5. L'application s'ouvrira automatiquement dans votre navigateur web
+
+## Compétences démontrées
+- Bases de connaissances, Notions en programmation Python (structures de données, manipulation de fichiers)
+- Analyse et visualisation de données
+- Création d'applications web interactives
+- Documentation de projet
+- Approche méthodologique des Humanités Numériques
+
+## Auteur
+Nathan.ZOUHOU
    
 ## Aperçu de l'application
-   https://github.com/InsedayZ/Mon-premier-projet-python/blob/main/Capture%20d'%C3%A9cran%202025-07-21%20125529.png
+ ![Capture d'écran de l'application Streamlit]   (https://github.com/InsedayZ/Mon-premier-projet-python/blob/main/Capture%20d'%C3%A9cran%202025-07-21%20125529.png)
