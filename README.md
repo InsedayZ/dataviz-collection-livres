@@ -74,4 +74,8 @@ Nathan ZOUHOU
 
 ![Aperçu de l'application Streamlit](screenshot_data_viz.jpg)
 
+#  Résultat en ligne
+
+Accédez à l’application interactivement ici :  
+[Ouvrir l’application Streamlit](https://dataviz-collection-livres.streamlit.app/)
 
