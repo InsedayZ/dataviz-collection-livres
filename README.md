@@ -67,8 +67,7 @@ streamlit run analyse_livres.py
 
 ### Auteur
 
-👤 Auteur
-Nathan ZOUHOU
+👤 Nathan ZOUHOU
 
 #### Aperçu de l'application
 
